@@ -17,7 +17,7 @@ public class Author {
     private Set<Book> books = new HashSet<>();
 
     public Author() {
-
+    //np
     }
 
     public Author(String firstname, String lastname) {

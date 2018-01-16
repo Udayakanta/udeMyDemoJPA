@@ -20,6 +20,7 @@ public class Book {
     private Set<Author> authors = new HashSet<>();
 
     public Book() {
+        //no-op
     }
 
     public Book(String title, String isbn, String publisher) {
